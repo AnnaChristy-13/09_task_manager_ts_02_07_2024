@@ -1,0 +1,10 @@
+body {
+    background-image: url('../images/Abstract-Neon-Light-Colors-Gradation-Blur-iphone-8.jpg');
+    background-size:100%;
+    }
+h1 {
+    color: rgb(233, 189, 46);
+}
+.card-body{
+    background-color:rgb(211, 223, 219);
+}
